@@ -22,6 +22,10 @@ public class SpaceDetails {
 		System.out.println(Size);
 		
 		//System.out.println(name);
+		
+		System.out.println("Added");
+		
+		System.out.println("Delected");
 
 	}
 
